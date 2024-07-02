@@ -40,12 +40,11 @@
 
 ## Usage
 
-Run the script with the desired output format and file name:
+1. Run the script with the desired output format and file name:
    ```bash
    python chrome_password_exporter.py --format csv --output passwords.csv
 
-or
-
+2. OR
    ```bash
    python chrome_password_exporter.py --format excel --output passwords.xlsx
 
