@@ -41,11 +41,13 @@
 ## Usage
 
 Run the script with the desired output format and file name:
-    ```bash
-    python chrome_password_exporter.py --format csv --output passwords.csv
+   ```bash
+   python chrome_password_exporter.py --format csv --output passwords.csv
+
 or
-    ```bash
-    python chrome_password_exporter.py --format excel --output passwords.xlsx
+
+   ```bash
+   python chrome_password_exporter.py --format excel --output passwords.xlsx
 
 ## Command-line Options
 
@@ -54,8 +56,8 @@ or
 
 ## Example
     
-    ```bash
-    python chrome_password_exporter.py --format csv --output chrome_passwords.csv
+   ```bash
+   python chrome_password_exporter.py --format csv --output chrome_passwords.csv
 
 This command will extract all saved passwords from Chrome and save them in a file named chrome_passwords.csv.
 
