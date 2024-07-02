@@ -54,11 +54,9 @@
 - `--output`: Specifies the output file name.
 
 ## Example
-    
-   ```bash
-   python chrome_password_exporter.py --format csv --output chrome_passwords.csv
 
-This command will extract all saved passwords from Chrome and save them in a file named chrome_passwords.csv.
+- `python chrome_password_exporter.py --format csv --output chrome_passwords.csv`
+- This command will extract all saved passwords from Chrome and save them in a file named chrome_passwords.csv.
 
 ## Disclaimer
 
